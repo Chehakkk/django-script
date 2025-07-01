@@ -2,5 +2,5 @@
 -  in your project root directory create empty file name(setup.sh)
 -  copy or  download the code
 -  run in terminal (chmod +x setup.sh)
--  run in terminal(./setop.sh)
+-  run in terminal(./setup.sh)
 -  it will automatically create django project 
