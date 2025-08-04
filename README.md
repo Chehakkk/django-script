@@ -23,21 +23,19 @@ This project automates the setup of a modular Django backend using a Bash script
 chmod +x setup.sh
 
 ---
-## Run the script
+Run the script
 - ./setup.sh
 - This will create a virtual environment, install Django, initialize your apps, and launch the server at http://127.0.0.1:8000
 
 
----
- ## ✏ Customization
+ ✏ Customization
 You can modify setup.sh to:
 - Add/remove apps
 - Install extra packages
 - Preconfigure .env and superuser
 - Initialize a Git repo and commit baseline
 
----
-### ✅ Final check
+✅ Final check
 - Run the server manually to verify setup:
 - python manage.py runserver
 
